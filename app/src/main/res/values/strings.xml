@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieInfo</string>
+
+
+    <string name="popular">Popular</string>
+    <string name="top">Top</string>
+    <string name="search">Search</string>
+    <string name="releaseDate">Release Date: </string>
+    <string name="originalTitle">Original Title: </string>
+    <string name="noResultFound">No Result Found</string>
+    <string name="servicenotAvalibale">Service not Available</string>
+    <string name="searchyourmovies">Search your movies</string>
+    <string name="popularity">Popularity: </string>
+    <string name="homePage">Home Page: </string>
+    <string name="voteCount">Vote Count</string>
+    <string name="voteAverage">Vote Average</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="genres">Genres</string>
+    <string name="status">Status</string>
+    <string name="overview">OVERVIEW:</string>
+    <string name="backdrop">Back Drop Image:</string>
+</resources>
